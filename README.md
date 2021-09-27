@@ -14,7 +14,7 @@ In this era of internet, eCommerce is growing very fast and these services are b
 - CSS
 - TypeScript
 - Angular
-- 
+
 ## Features:
 - Administrator can view the list of customers.
 - Administrator can add,delete and view the products.
